@@ -10,7 +10,7 @@
   "author": "Rajeev Ranjan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.2.0",
     "websocket": "^1.0.30",
     "ws": "^7.1.2"
